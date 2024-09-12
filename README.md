@@ -50,8 +50,8 @@ I'm Sonu Kumar Sinha, a Data Analyst, passionate about data visualization, analy
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/sonu-kumar-sinha/)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/sonusinha1707)
+- **Linkedin**: [Linkedin/sonu-kumar-sinha](https://www.linkedin.com/in/sonu-kumar-sinha/)
+- **GitHub**: [github.com/sonusinha1707](https://github.com/sonusinha1707)
 
 🌐Feel free to connect with me!
 
