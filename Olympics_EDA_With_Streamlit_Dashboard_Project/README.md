@@ -1,6 +1,6 @@
 # Olympic Data Analysis using Python
 
-![](https://github.com/your-repository/olympic-eda/blob/main/logo.png)
+<img src="https://github.com/sonusinha1707/EDA-Projects/blob/main/Olympics_EDA_With_Streamlit_Dashboard_Project/logo.png" height="400" width="800" >
 
 ## Overview
 This project performs exploratory data analysis (EDA) on the Olympic athletes dataset. The goal is to uncover trends and insights related to the participation, performance, and distribution of athletes over the years. The analysis includes demographic information such as age, height, weight, as well as comparisons between different sports and events.
