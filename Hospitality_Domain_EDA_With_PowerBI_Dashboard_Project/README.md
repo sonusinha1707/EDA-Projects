@@ -1,6 +1,6 @@
-![Blue Modern Special Promo Hotel and Resort Instagram Post](https://user-images.githubusercontent.com/90838725/227268575-a34200b7-d9d5-410c-97b2-f8f00bb3f51b.png)
-
 # Hotel Booking EDA
+
+![](https://github.com/sonusinha1707/EDA-Projects/blob/main/Hospitality_Domain_EDA_With_PowerBI_Dashboard_Project/icon.jpg)
 
 This project analyzes hotel booking cancellations and other relevant factors that impact the business and revenue generation of City Hotel and Resort Hotel. The high cancellation rates have resulted in decreased revenue and less efficient use of hotel rooms, so lowering cancellation rates is the primary goal of both hotels to increase revenue and improve efficiency.
 
