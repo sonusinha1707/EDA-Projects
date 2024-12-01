@@ -63,6 +63,12 @@ Maximum number of bookings were made by the agent with ID=9 followed by 240, 7, 
 **Distribution channel and market segment:**
 
 The majority of bookings at the hotels come from guests in the Online/Offline Travel Agency distribution channel, followed by those in the Direct channel. The majority of bookings at the hotels come from guests in the Online Travel Agency market segment, followed by those in the Offline Travel Agency market segment.
+
+## Power BI Dashboard
+
+![](https://github.com/sonusinha1707/SQL-Projects/blob/main/Netflix_Data_Analysis_Using_SQL/Netflix%20Power%20BI%20Dashboard.png)
+
+
 ## Recommendations
 
 1. Guest surveys can be used to create a dataset to identify reasons and demographics behind the cancellations, and to develop targeted actions and a machine learning model to forecast cancellations. Such measures can help improve the booking retention rates and overall financial performance of the hotels.
