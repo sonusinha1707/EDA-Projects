@@ -106,6 +106,28 @@ The majority of bookings at the hotels come from guests in the Online/Offline Tr
 
 ![](https://github.com/sonusinha1707/EDA-Projects/blob/main/Hospitality_Domain_EDA_With_PowerBI_Dashboard_Project/Dashboard.png)
 
+## Key Insights
+
+1. **Peak Booking Periods**
+   - **Insight:** The busiest booking periods are during summer (June to August) and year-end holidays (December). This trend highlights seasonal peaks in both city and resort hotels.
+   - **Actionable Recommendation:** Increase staffing and promotional offers during these peak months to capitalize on demand and ensure smooth operations.
+
+2. **Booking Cancellations**
+   - **Insight:** Over 20% of total bookings are canceled. Higher cancellation rates are observed for bookings made with longer lead times.
+   - **Actionable Recommendation:** Implement flexible cancellation policies or incentives (e.g., discounts for non-refundable bookings) to reduce cancellations.
+
+3. **Customer Segments**
+   - **Insight:** Families and groups tend to prefer resort hotels, while solo travelers and business clients mostly choose city hotels.
+   - **Actionable Recommendation:** Tailor marketing campaigns to target families for resorts and professionals for city hotels to maximize bookings.
+
+4. **Revenue Impact of Length of Stay**
+   - **Insight:** Guests staying longer than 3 nights contribute disproportionately to revenue, especially at resort hotels.
+   - **Actionable Recommendation:** Offer package deals for extended stays to encourage longer bookings, boosting revenue.
+
+5. **Geographical Trends**
+   - **Insight:** Most international guests come from a few key countries, such as Portugal, the UK, and France. However, there is untapped potential in emerging markets.
+   - **Actionable Recommendation:** Develop partnerships and targeted marketing campaigns in these high-potential regions to attract more international guests.
+
 
 ## Recommendations
 
