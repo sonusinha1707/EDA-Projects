@@ -66,7 +66,7 @@ The majority of bookings at the hotels come from guests in the Online/Offline Tr
 
 ## Power BI Dashboard
 
-![](https://github.com/sonusinha1707/SQL-Projects/blob/main/Netflix_Data_Analysis_Using_SQL/Netflix%20Power%20BI%20Dashboard.png)
+![](https://github.com/sonusinha1707/EDA-Projects/blob/main/Hospitality_Domain_EDA_With_PowerBI_Dashboard_Project/Dashboard.png)
 
 
 ## Recommendations
