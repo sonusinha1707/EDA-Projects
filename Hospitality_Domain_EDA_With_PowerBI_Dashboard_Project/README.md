@@ -12,6 +12,44 @@ This project analyzes hotel booking cancellations and other relevant factors tha
 EDA is conducted to investigate and summarize key characteristics of the data to uncover patterns, relationships, and insights. The EDA in this project includes non-graphical and graphical methods, such as shape, summary, describe, isnull, info, dtypes, pie, scatter, box, bar, density, and correlation plots. The EDA covers several aspects of hotel bookings, including percentage of booking, cancelled bookings, length of stay, parking space, preferred meal type, lead time, room type, busiest month, ADR, guest type, origin of guests, agent, and distribution channel and market segment.
 ### Key Features
 
+## Problem Statement
+
+This hotel booking dataset can help us explore various questions related to booking cancellations, increasing revenue, improving efficiency, and identifying the busiest periods in the hotel industry. The dataset contains booking information for city hotels and resort hotels, including details such as:
+
+- When the booking was made
+- Length of stay
+- Number of adults, children, and/or babies
+- Number of available parking spaces
+
+The aim of this project is to analyze this data and derive insights that can help improve business operations and customer satisfaction.
+
+## Tools and Libraries Used
+
+This project utilizes the following Python libraries:
+
+- `pandas` for data manipulation
+- `numpy` for numerical operations
+- `seaborn` and `matplotlib` for visualizations
+- `plotly.express` for interactive plotting
+- `folium` for map visualizations
+- `datetime` for handling date and time data
+- `pycountry` for country-related data
+- `warnings` to suppress unnecessary warnings
+
+## Key Features
+
+- **Data Cleaning and Preprocessing:** Ensured the data is ready for analysis by handling missing values, encoding categorical variables, and transforming columns.
+- **Exploratory Data Analysis (EDA):** Explored patterns in booking trends, seasonality, customer segmentation, and cancellations.
+- **Visualization:** Used advanced visualization techniques to identify key insights and present them effectively.
+- **Interactive Analysis:** Created dashboards using Plotly for real-time insights.
+
+## Project Structure
+
+1. **Data Loading and Overview:** Initial data exploration, including loading and cleaning.
+2. **Feature Engineering:** Creation of new meaningful variables.
+3. **EDA:** Visualization and analysis of key trends.
+4. **Insights:** Business recommendations based on analysis.
+
 **Percentage of booking in each hotel:**
 
 Using the help of pie chart and bar plot, it has been found that the percentage of booking in the City Hotel is 1.57 times more as compared to that in the Resort Hotel. People usually book a city hotel for business or short trip while Resort hotels are mostly known for spending holidays.
